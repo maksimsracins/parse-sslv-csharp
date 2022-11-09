@@ -1,0 +1,17 @@
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.exe
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.runtimeconfig.json
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.genruntimeconfig.cache
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\Desktop\Github repository\parse-sslv-csharp\SSlvParser\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CopyComplete

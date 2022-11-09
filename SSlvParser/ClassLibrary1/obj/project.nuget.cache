@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w5JpEnggiXboeZ1T8YwdjFS98Yks47sOdVRAIYqmj2jCLVI5mB1iN1NsPEo8oAiR120/mwX+9xsTrT68IrAJ3w==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Github repository\\parse-sslv-csharp\\SSlvParser\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxki\\.nuget\\packages\\htmlagilitypack\\1.11.40\\htmlagilitypack.1.11.40.nupkg.sha512"
+  ],
+  "logs": []
+}
